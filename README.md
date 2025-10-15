@@ -74,7 +74,6 @@ http://localhost:3000/adatok
 ```
 
 ## Megjegyzés
-
-- A szerver minden GET kérésnél újraolvassa a `data.json` fájlt, így a fájlban történő frissítések azonnal elérhetők.
-- A szerver csak olvasási célra készült, nem kezeli a POST/PUT/DELETE kéréseket.
+  -Postman test képek: 
+  ![Postmankep1]([https://cdn.discordapp.com/attachments/1137827610932564022/1427788914642653275/Screenshot_2025-10-15_003931.png?ex=68f0238c&is=68eed20c&hm=9883d92b779e8141275de1af7b26f8cacc230b412791cf3c47ba5c147ab32684](https://cdn.discordapp.com/attachments/796330046947328010/1428045896129712171/image.png?ex=68f112e1&is=68efc161&hm=25bbfe93631e3037d7af931600575e19ac1365f3f4b46660d6eaa8efa792d69c&))
 
