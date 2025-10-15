@@ -81,6 +81,6 @@ http://localhost:3000/adatok
   
   -Chat gpt használt promtok: 
     - [ { "id": 1, "nev": "Péter", "kor": 17 }, { "id": 2, "nev": "Anna", "kor": 19 }, { "id": 3, "nev": "Laci", "kor": 16 } ] ird át és bövisd
-    - csinálj egy md fáljba dokumentáciot
+    - csinálj egy md fáljba dokumentáciot pédául alkatrészekre
   
 
