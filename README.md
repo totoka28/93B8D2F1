@@ -75,8 +75,8 @@ http://localhost:3000/adatok
 
 ## Megjegyzés
   -Postman test képek mellékeéve.
-  ![kep1](iamge.png)
-  ![kep2](iamge.png)
+  ![kep1](image.png)
+  ![kep2](image2.png)
 
   
   -Chat gpt használt promtok: 
