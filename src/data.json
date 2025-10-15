@@ -1,0 +1,7 @@
+[
+  { "id": 1, "nev": "Processzor", "tipus": "Intel Core i5-12400F", "ar": 65000, "keszlet": 12, "kategoriа": "CPU" },
+  { "id": 2, "nev": "Videókártya", "tipus": "NVIDIA RTX 3060", "ar": 145000, "keszlet": 5, "kategoriа": "GPU" },
+  { "id": 3, "nev": "Alaplap", "tipus": "MSI B660M-A DDR4", "ar": 42000, "keszlet": 8, "kategoriа": "Motherboard" },
+  { "id": 4, "nev": "RAM", "tipus": "Kingston Fury 16GB DDR4", "ar": 28000, "keszlet": 20, "kategoriа": "Memória" },
+  { "id": 5, "nev": "SSD", "tipus": "Samsung 980 500GB NVMe", "ar": 27000, "keszlet": 15, "kategoriа": "Tárhely" }
+]
